@@ -4,11 +4,12 @@ import { join } from 'path';
 import { generateChartFile } from './chart';
 import { createCurveOps } from './draw-curve';
 // import { createPieOps } from './draw-pie';
-import { mkDirPath } from './fs';
+import { updateHash, mkDirPath } from './fs';
 
 const dataUrl = 'https://raw.githubusercontent.com/Saber2pr/saber2pr.github.io/master/static/data/blog.json'
 
 const outDir = join(process.cwd(), 'out')
+const profileDir = join(process.cwd(), 'README.md')
 
 async function main() {
   const res = await axios.get(dataUrl)
@@ -16,6 +17,7 @@ async function main() {
   await mkDirPath(outDir)
   // generateChartFile({ w: 500, h: 500 }, createPieOps(data), join(outDir, 'pie.svg'))
   generateChartFile({ w: 1000, h: 500 }, createCurveOps(data), join(outDir, 'curve.svg'))
+  updateHash(profileDir)
 }
 
 main()
