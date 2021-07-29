@@ -1,5 +1,8 @@
 name: Update Chart
 on:  
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
