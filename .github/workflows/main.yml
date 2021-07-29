@@ -19,8 +19,8 @@ jobs:
       - name: Build Chart
         run: yarn chart
 
-      - name: Config
-        run: git config --global user.email "saber2pr@gmail.com" && git config --global user.name "saber2pr"
-        
-      - name: Publish
-        run: git add . && git commit . -m 'update' && git push
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
