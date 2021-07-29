@@ -1,0 +1,23 @@
+{
+  "name": "saber2pr",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "chart": "ts-node src/main",
+    "start": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.2.13",
+    "@types/node": "^16.4.6",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0",
+    "echarts": "^5.1.2",
+    "jsdom": "^16.6.0"
+  }
+}
