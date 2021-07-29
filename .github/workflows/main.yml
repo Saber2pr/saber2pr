@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 0 * * *'
 jobs:
-  Deploy-Pages:
+  Generate-Svgs:
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout
@@ -17,4 +17,4 @@ jobs:
         run: yarn chart
 
       - name: Publish
-        run: git push
+        run: git add . && git commit . -m 'update' && git push
