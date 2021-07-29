@@ -3,4 +3,4 @@
 
 <hr/>
 
-<a href="https://saber2pr.top/#/数据"><img src="./out/curve.svg?_ts=1627563702675" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="./out/curve.svg?_ts=1627563825545" /></a>
