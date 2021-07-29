@@ -16,7 +16,7 @@ async function main() {
   const data = res.data
   await mkDirPath(outDir)
   // generateChartFile({ w: 500, h: 500 }, createPieOps(data), join(outDir, 'pie.svg'))
-  generateChartFile({ w: 1000, h: 500 }, createCurveOps(data), join(outDir, 'curve.svg'))
+  generateChartFile({ w: 1000, h: 400 }, createCurveOps(data), join(outDir, 'curve.svg'))
   updateHash(profileDir)
 }
 
