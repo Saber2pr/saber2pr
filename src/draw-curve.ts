@@ -1,5 +1,5 @@
 import { collect, TextTree } from './tree';
-import { formatTime, formatTimeStamp } from './utils';
+import { formatTime, formatTimeStamp, transformLabel } from './utils';
 
 const getItemMonth = (item: TextTree) => {
   if (item && item['LastModified']) {
@@ -119,7 +119,7 @@ export const createCurveOps = (data: any) => {
       label: {
         show: true,
         formatter: (params: ScatterParams) => {
-          return `${params?.data?.cate}`
+          return `${transformLabel(params?.data?.cate)}`
         },
         color: '#747474',
       },
