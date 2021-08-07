@@ -19,6 +19,7 @@ const localeMap = {
 export const transformLabel = (label: string) => {
   if (label) {
     if (label in localeMap) return localeMap[label]
-    return label.match(/[a-zA-Z\s]+/)[0]
+    return label.match(/[a-zA-Z\s]+/)?.[0] ?? ''
   }
+  return ''
 }
