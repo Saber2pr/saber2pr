@@ -4,4 +4,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1628420992124" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1628470260835" /></a>
