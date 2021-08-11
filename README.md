@@ -87,4 +87,4 @@ Haskell                  2 repos             ░░░░░░░░░░░�
  Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1628661164506" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1628661307575" /></a>
