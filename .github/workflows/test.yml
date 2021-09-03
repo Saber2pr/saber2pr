@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Test
         run: |
-          echo github.repository.name
+          echo ${{github.repository.name}}
