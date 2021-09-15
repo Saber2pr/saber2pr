@@ -3,8 +3,6 @@
 
 I'm currently working in Tuya as Frontend Engineer, developing AIOT platform React App and Nodejs DevOps Server Components.
 
-I like Japanese animation and computer science.
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
