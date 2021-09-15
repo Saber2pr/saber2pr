@@ -3,9 +3,7 @@
 
 I'm currently working in Tuya as Frontend Engineer, developing AIOT platform React App and Nodejs DevOps Server Components.
 
-I like Japanese animation and computer science.
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1631684796647" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1631685613985" /></a>
