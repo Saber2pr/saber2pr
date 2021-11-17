@@ -6,4 +6,4 @@ I'm currently working in Tuya as Frontend Engineer, developing AIoT platform Rea
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1637023979514" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1637110336486" /></a>
