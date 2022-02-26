@@ -3,7 +3,5 @@
 
 I'm currently working in Tuya as Frontend Engineer, developing AIoT platform React App and Platform Nodejs Server.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1645836117810" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1645881426769" /></a>
