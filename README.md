@@ -4,4 +4,4 @@
 I'm currently working in Tuya as Frontend Engineer, developing AIoT platform React App and OS Front-End Infrastructure.
 
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1652317480734" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1652404358455" /></a>
