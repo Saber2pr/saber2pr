@@ -5,6 +5,6 @@ I'm currently working in Tuya as Frontend Engineer, developing AIoT platform Rea
 
 ### Genshin Impact
 
-<img align="left" src="https://genshin-card.getloli.com/rand/82173644.png" width="45%" />
+<img align="left" src="https://genshin-card.getloli.com/rand/82173644.png" width="42%" />
 
-<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1660137174265" /></a>
+<a href="https://saber2pr.top/#/数据"><img src="https://cdn.jsdelivr.net/gh/saber2pr/saber2pr@gh-pages/out/curve.svg?_ts=1660137319756" /></a>
