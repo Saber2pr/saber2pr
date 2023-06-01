@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/axios": "^0.14.0",
     "axios": "^0.21.1",
-    "canvas": "^2.8.0",
+    "canvas": "^2.11.2",
     "echarts": "^5.1.2",
     "jsdom": "^16.6.0"
   }
